@@ -11,9 +11,8 @@ Fecha: 23/05/2023
 La visión de **Lev Manovich** se basa en la idea de que las formas culturales y tecnológicas están convergiendo en la era digital, y esta convergencia se manifiesta en la hibridación de diferentes medios y sistemas.
 Se estudian aquí dos casos claros de hibridación: la aplicación **Waylet** de Repsol y el dispositivo **Wii Remote** de Nintendo.
 
-![](https://waylet.es/media/2020/07/Logo_Waylet-new-1.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wii_Remote_Image.jpg/375px-Wii_Remote_Image.jpg)
-
 ## Re-descubriendo la hibridacion: WAYLET
+![](https://waylet.es/media/2020/07/Logo_Waylet-new-1.png)
 
 **Waylet** es una aplicación móvil de la compañía **Repsol**, que combina diversas funcionalidades para brindar a los usuarios una experiencia funcional completa al realizar pagos, administrar tanto el saldo de dinero como de puntos y muchos servicios más interrelacionados. Aplicando la perspectiva de Manovich y su teoría de la hibridación, Waylet puede considerarse un caso ejemplar de cómo las tecnologías digitales pueden converger para proporcionar aplicaciones multiservicio y crear una experiencia de usuario integral.
 
@@ -28,6 +27,8 @@ En conclusión, la aplicación Waylet ejemplifica perfectamente la hibridación 
 
 ## Re-descubriendo la hibridacion: Wii Remote
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wii_Remote_Image.jpg/375px-Wii_Remote_Image.jpg)
+ 
 El dispositivo Wii Remote o Wiimote, desarrollado por Nintendo, es un controlador de videojuegos que representa un claro ejemplo de hibridación según la visión de Lev Manovich. A través de la combinación de diferentes tecnologías y funciones, el Wiimote ha logrado revolucionar la forma en que los usuarios interactúan con los videojuegos, **generando una experiencia única y multidimensional**.
 - Desde el punto de vista de la hibridación, el Wiimote fusiona elementos de control tradicionales con controles de movimiento. A simple vista, el Wiimote no se distingue de un controlador convencional con botones y un teclado direccional, pero también **integra acelerómetros, sensores e infrarrojos que detectan la posición, los movimientos y la direccionalidad del dispositivo en el espacio**, con lo que también permiten apuntar.
 Esta combinación de características **permite a los jugadores utilizar gestos y movimientos corporales para controlar los juegos**. Por ejemplo, en un juego de tenis, los jugadores pueden sostener el Wiimote como una raqueta y realizar movimientos de golpe para interactuar con el juego de manera más realista. **Esta interacción física directa proporciona una nueva experiencia inmersiva que va más allá de los controles tradicionales basados en botones**.
