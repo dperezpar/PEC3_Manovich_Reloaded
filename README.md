@@ -3,6 +3,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 Autor: Daniel Pérez Pardiñas
+
 Fecha: 23/05/2023
 
 ## Introducción
