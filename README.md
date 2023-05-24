@@ -5,7 +5,7 @@
 Autor: Daniel Pérez Pardiñas
 Fecha: 23/05/2023
 
-## Planteamiento
+## Introducción
 
 La visión de **Lev Manovich** se basa en la idea de que las formas culturales y tecnológicas están convergiendo en la era digital, y esta convergencia se manifiesta en la hibridación de diferentes medios y sistemas.
 Se estudian aquí dos casos claros de hibridación: la aplicación **Waylet** de Repsol y el dispositivo **Wii Remote** de Nintendo.
